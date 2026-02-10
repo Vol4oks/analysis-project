@@ -1,0 +1,3 @@
+- [Исходное приложение](https://github.com/Vol4oks/analysis-project/commit/60773181bad7690fa4f76b7e81f5748b674f85d8)
+- [Рефакторинг](https://github.com/Vol4oks/analysis-project/commit/a1b8e842c6391bd347622b858f4bed78de12d456)
+- [run fmt](https://github.com/Vol4oks/analysis-project/commit/1ec8f3179ff88c1f4b81d34efffb5cd3be64f06d)
